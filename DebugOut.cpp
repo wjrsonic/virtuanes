@@ -1,4 +1,4 @@
-//
+﻿//
 // Debug output
 //
 #include "DebugOut.h"
