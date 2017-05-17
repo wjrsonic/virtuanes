@@ -1,0 +1,11 @@
+/Debug/*
+/ipch/*
+/Release/*
+/Release_Debugout/*
+/*.exe
+/*.ini
+/*.suo
+/*.ilk
+/*.pdb
+/*.sdf
+/*.opensdf
